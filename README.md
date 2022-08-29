@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+The Bikesharing script was created in August 2022.
 
 ### Project Title
 Bikesharing statistics
@@ -8,7 +8,7 @@ Bikesharing statistics
 The script allows the user to get selected statistics on bikesharing data from selected US cities for a given time period.
 
 ### Files used
-Include the files used
+The files include three CSV files containing the data on bikesharing trips in Chicago, New York City and Washington.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The script has been coded with the base template provided by Udacity, knowledge obtained during the Nanodegree course and the help of Google searchces leading mostly to Stack Overflow threads.
