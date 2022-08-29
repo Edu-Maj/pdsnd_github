@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Bikesharing statistics
 
 ### Description
-Describe what your project is about and what it does
+The script allows the user to get selected statistics on bikesharing data from selected US cities for a given time period.
 
 ### Files used
 Include the files used
