@@ -216,8 +216,6 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        print(df)
-
         see_raw_data = input('\nWould you like to see raw data? Enter yes or no.\n')
         start_row = 0
         while (see_raw_data.lower() == 'yes'):
